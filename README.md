@@ -12,7 +12,7 @@ Currently, two official plugins are available:
 
 ## Edusoft Frontend
 
-<p align="center"><a href="#" target="_blank"><img src="public/edusoft.jpg" width="150"></a></p>
+<p align="center"><a href="#" target="_blank"><img src="" width="150" alt="Edusoft_Logo"></a></p>
 
 # Despliegue Edusoft Frontend
 
@@ -32,7 +32,7 @@ Clonar el repositorio
    npm install
 ```
 
-### Ejecutar el modo desarrollo
+### Run development mode
 
 ```sh
    npm run dev:start
